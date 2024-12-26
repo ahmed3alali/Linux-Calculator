@@ -1,0 +1,8 @@
+addition result: 42
+addition result: 42
+addition result: 42
+division result: 42
+addition result: 42
+Operation result: -471082592
+5
+15
